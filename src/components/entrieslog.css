@@ -1,0 +1,25 @@
+table{
+    width: 1164px;
+    border-collapse: collapse;
+    margin-left: 90px;
+    background-color: white;
+    margin-bottom: 150px;
+    
+}
+tr, td {
+   
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: black;
+    border-bottom: 1px solid #e9e6e6;
+
+    
+}
+th{
+    padding: 20px;
+    font-size: medium;
+    
+    background-color: #f5f5f5;
+    color: #696969;
+}
